@@ -1,5 +1,7 @@
 ## 📊 Finance KPI Dashboard
 
+📊 See the full dashboard here : [App PowerBi link](https://app.powerbi.com/view?r=eyJrIjoiMzdhMzEwNzgtNDEwZi00NjIzLTllNDQtMTFkMzM0YzlhYzhmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 **🔎 Overview**
 The Finance KPI Dashboard is designed to provide insights into sales performance by comparing actuals vs. targets, tracking variance, and identifying trends over time. 
 It enables business stakeholders to make data-driven decisions, improve forecasting, and monitor accountability across teams.
